@@ -1,1 +1,5 @@
+y= input("enter the number")
+minrange=0;
+maxrange=1000;
+if (y >= minrange) && (y <= maxrange)
 
