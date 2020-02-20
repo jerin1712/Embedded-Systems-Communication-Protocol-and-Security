@@ -2,4 +2,10 @@ y= input("enter the number")
 minrange=0;
 maxrange=1000;
 if (y >= minrange) && (y <= maxrange)
+disp('within specified range')
+    elseif (y >maxrange)
+    disp('=beyond the specified range')
+else
+    disp('Value is below minimum value.')
+  end
 
