@@ -3,3 +3,7 @@ num= input("enter the case")
  y=input("enter the second number")
 switch num
   case 1
+z=x+y
+ 
+  case 2
+    z= x-y
