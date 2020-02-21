@@ -1,3 +1,5 @@
 num= input("enter the case")
  x=input("enter the first number")
  y=input("enter the second number")
+switch num
+  case 1
