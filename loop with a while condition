@@ -1,1 +1,5 @@
+y= input("enter the number")
+while(y >= 0)
+    disp('the number is positive')
+    break
 
