@@ -5,3 +5,8 @@ for i=0:1:5
 if (y >=c)
   disp('greater than the overall mean ')
 elseif (y=c)
+disp('mean of the samples is equal to overall mean.')
+else
+  disp('mean of the samples is lessthan the overall mean..')
+end
+end
