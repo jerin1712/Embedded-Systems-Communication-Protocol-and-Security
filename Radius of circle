@@ -1,1 +1,6 @@
+function circle= area (radius)
+  radius=input("enter the radius")
+  circle=pi*(radius.^2)
+endfunction
+
 
